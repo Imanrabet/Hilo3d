@@ -123,7 +123,7 @@
 [gitter-url]: https://gitter.im/hiloteam/Hilo3d?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 [npm-image]: https://img.shields.io/npm/v/hilo3d.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/hilo3d
-[size-image]:https://img.badgesize.io/hiloteam/hilo3d/master/build/Hilo3d.js.svg?compression=gzip&style=flat-square
+[size-image]:https://img.shields.io/bundlephobia/minzip/hilo3d?style=flat-square&label=zipped%20size
 [ci-url]:https://github.com/hiloteam/Hilo3d/actions?query=workflow%3A%22npm+test%22+branch%3Adev
 [ci-image]:https://img.shields.io/github/actions/workflow/status/hiloteam/Hilo3d/npm_test.yml?branch=dev
 [cdn-url]: https://cdn.jsdelivr.net/npm/hilo3d@1.19.0/build/Hilo3d.js
